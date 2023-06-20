@@ -1,8 +1,8 @@
-# discord-webhook-lyric-spammer
-Spams lyrics to a discord webhook
-# Features
-Pings @everyone with every message
-uses BIG font
+# DWLS (Discord Webhook Lyric Spammer)
+Features:
+- Spams lyrics to a discord webhook
+- Pings @everyone with every message
+- Uses GIANT font
 # Current Songs
-Aqua - Barbie Girl
-(more coming soon
+- Aqua - Barbie Girl
+- (more coming soon)
