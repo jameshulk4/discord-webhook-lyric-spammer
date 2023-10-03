@@ -4,7 +4,7 @@ Features:
 - Pings @everyone with every message
 - Uses GIANT font
 - Simple setup instructions
-- Custom message delay to avoid rate-limits
+- Customizable message delay to avoid rate-limits
 # Setup
 1. Open the `setup` directory
 2. If you are on windows, run `install-requirements-windows.bat` to automate the proccess
